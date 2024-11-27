@@ -18,7 +18,7 @@ Rodobens S/A: Atualmente, sou analista de infraestrutura, onde realizo rotinas d
 
 Vamos nos conectar!
 
-![image](https://github.com/user-attachments/assets/3a5e03ff-c462-4cff-a8c8-1006e02815de)
+
 
 
 <!--
