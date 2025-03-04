@@ -2,7 +2,7 @@
 
 🔹 Olá!!!! Sou Adriano Ferraz, um entusiasta da tecnologia!🔹
 
-🔧 Com 15 anos de experiência na área e uma formação sólida em Sistemas de Informação, além de um MBA em Segurança da Informação, sou apaixonado por tudo que envolve a transformação digital. Atualmente, resido em São José do Rio Preto, sempre em busca de desafios que me permitam evoluir e fazer uma contribuição significativa.
+🔧 Com uma formação sólida em Sistemas de Informação, além de um MBA em Segurança da Informação, sou apaixonado por tudo que envolve a transformação digital. Atualmente, resido em São José do Rio Preto, sempre em busca de desafios que me permitam evoluir e fazer uma contribuição significativa.
 
 💼 Minha jornada profissional teve início em 2008, e ao longo dos anos, tive a oportunidade de atuar em diferentes funções que me proporcionaram uma visão abrangente do setor de tecnologia da informação:
 
