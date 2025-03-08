@@ -1,4 +1,4 @@
-# Olá, sou Adriano Henrique Ferraz (adferraz) 👋
+# Olá, sou Adriano Ferraz (adferraz) 👋
 
 ✨  Apaixonado por tecnologia, inovações e soluções que impulsionam a eficiência e a criatividade.
 
