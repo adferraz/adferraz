@@ -1,37 +1,44 @@
-## Adriano Ferraz👋
+# Olá, sou Adriano Henrique Ferraz (adferraz) 👋
 
-🔹 Olá!!!! Sou Adriano Ferraz, um entusiasta da tecnologia!🔹
+✨  Apaixonado por tecnologia, inovações e soluções que impulsionam a eficiência e a criatividade.
 
-Com uma formação sólida em Sistemas de Informação, além de um MBA em Segurança da Informação, sou apaixonado por tudo que envolve a transformação digital. Atualmente, resido em São José do Rio Preto, sempre em busca de desafios que me permitam evoluir e fazer uma contribuição significativa.
-
-Minha jornada profissional teve início em 2008, e ao longo dos anos, tive a oportunidade de atuar em diferentes funções que me proporcionaram uma visão abrangente do setor de tecnologia da informação:
-
-Prefeitura Municipal de Mesópolis: Como responsável pelo setor de TI, gerenciei o ambiente computacional, assegurando que todas as operações fossem realizadas com eficiência e segurança.
-
-Fiorilli Software: Atuei como suporte técnico, oferecendo atendimento e suporte para o sistema de gestão de contabilidade pública (SCPI). Essa experiência me permitiu desenvolver habilidades essenciais em resolução de problemas e atendimento ao cliente.
-
-Rodobens S/A: Atualmente, sou analista de infraestrutura, onde realizo rotinas de fechamento de sistemas, execução de scripts em banco de dados, execução de Gestão de Mudanças (GMUDs) , atendimento a chamados entre outras tarefas pertinetes a área. Estou sempre focado na melhoria contínua dos processos e serviços.
-
-Além da experiência prática, sou um aprendiz constante. Atualmente, estou me aprofundando em Desenvolvimento Full Stack, com especial ênfase na linguagem Java. Acredito que a combinação das minhas habilidades em infraestrutura e com o desenvolvimento, me permitirá ser mais eficaz e integrado em projetos tecnológicos.
-
-🌐 Estou aberto a novas oportunidades e conexões que possam enriquecer minha trajetória profissional e contribuir para meu crescimento. Se você procura um profissional dedicado e em busca de inovação.
-
-Vamos nos conectar!
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![AUDACITY](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+![POWERSHELL](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![INTELLIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SPRINGBOOT](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 
+🏢 **FORMAÇÃO ACADÊMICA**
+- 🎓 Bacharelado em Sistemas de informação na [FEF - Fundação Educacional de Fernandópolis](https://www.fef.br/)
+- 🎓 MBA em Segurança da Informação na [Cruzeiro do Sul](https://cursos.cruzeirodosulvirtual.com.br)
+
+🏢 **CURSOS E ESPECIALIZAÇÕES**
+- 🚀 Minicurso de Java
+- 🚀 Curso de HTML
+- 🚀 Certificação Fundamentos Java
+- 🚀 Versionamento de código com GIT e GITHUB
+- 🚀 Desenvolvimento Java
+- 🚀 Lógica de Programação com Java
+- 🚀 Formação PowerShell
+- 🚀 Cybersecurity Essentials
+- 🚀 Introduction to Cybersecurity
+- 🚀 Boas Praticas de Cibersegurança (Cybersecurity Awareness)
+
+  
+### 📊 Estatísticas no GitHub
+
+![adferraz GitHub stats](https://github-readme-stats.vercel.app/api?username=adferraz&show_icons=true&theme=dracula)
+
+### 📌 Projetos em Destaque
 
 
-<!--
-**adferraz/adferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Linguagens Mais Usadas
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adferraz&layout=compact)
